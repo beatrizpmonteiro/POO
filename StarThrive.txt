@@ -1,0 +1,26 @@
+Restauracao/Restaurante Local/O Farol/Porto/40.643/-8.746952777777777/20/8400.0/150/270/30/140.0/5/70.0
+Restauracao/Cafe/Samambaia/Coimbra/-24.03089900/-46.52385300/7/8100.25/95/80/6400.0
+Restauracao/Pastelaria/Pastelaria Da Praca/Coimbra/40.223386332527625/-8.37061242419002/9/6800.0/35/50/18250.0
+Restauracao/Restaurante fast-food/Mcdonalds Coimbra/Coimbra/40.223386332527625/-8.37061242419002/10/7200.0/100/200/20/52.0/10/16245.0
+Restauracao/Café/Café da Se/Viseu/40.223386332527625/-8.37061242419002/5/8400.0/25/20/7300.0
+Restauracao/Restaurante fast-food/Burger King/Porto/40.223386332527625/-8.37061242419002/9/7200.0/100/300/20/30.0/24/5254.0
+Restauracao/Restaurante Local/Pizzaria Prado/Viseu/40.223386332527625/-8.37061242419002/9/6600.0/85/230/50/85.0/10/300.0
+Restauracao/Pastelaria/Toledo/Coimbra/40.223386332527625/-8.37061242419002/10/8400.0/45/30/18250.0
+Restauracao/Restaurante Local/Santa Cruz/Coimbra/401238.754/-8544.129/9/6600.0/95/230/50/62.0/20/2000.0
+Restauracao/Cafe/Tonys Bar/Viseu/40.22365412654/-7.13652588552/3/8000.5/50/20/6435.25
+Restauracao/Restaurante FastFood/Pizza Hut/Algarve/24.223386332527625/-7.37061242419002/10/7200.0/130/220/20/55.5/16/1500.0
+Restauracao/Restaurante fast-food/Burger King/Braga/43.123656332527625/-8.37061242419002/13/8100.0/150/250/30/39.0/15/5254.0
+Restauracao/Restaurante Local/Pizzaria Mondego/Coimbra/24.165236527625/-4.37061242419002/12/6700.0/85/200/35/95.0/10/300.0
+Restauracao/Pastelaria/D Luis/Porto/42.1236527625/-8.37061242419002/6/8400.0/50/45/18650.0
+Restauracao/Restaurante Local/A Grelha/Guarda/40354.754/-86444.129/15/6870.0/165/225/55/120.0/22/20644.0
+Restauracao/Cafe/Roda/Porto/40.652331/-7.12364455/5/8000.5/40/28/6846.25
+Restauracao/Restaurante FastFood/Telepizza/Lisboa/18.12365527625/-5.4523659002/8/7200.0/100/210/23/53.5/10/1500.0
+Mercearia/Mercado/Continente/Porto/42.1236527625/-8.37061242419002/720.0/Hiper/55.0/950.0
+Mercearia/Frutaria/Frescos/Coimbra/40.452568527625/-8.355656565002/700.5/40/1530.0
+Mercearia/Mercado/Auchan/Coimbra/40.1236527625/-7.37061242419002/800.0/Super/420.0/55.0/2000.0
+Mercearia/Frutaria/Frutaria Avenida/Porto/45.654123652625/-6.1585665002/625.5/35/680.0
+Mercearia/Frutaria/Frutaria da Conchada/Coimbra/40.36448967625/-8.254565002/350.5/29/350.0
+Mercearia/Mercado/Poupa Mais/Braga/43.123656332625/-6.37061242419002/600.0/Mini/30.0/1120.0
+Mercearia/Frutaria/Frutaria Da Esquina/Algarve/3.14527625/-85.1655565002/620.5/42/560.0
+Mercearia/Mercado/Mini-Preco/Viseu/40.1657625/-7.56412419002/710.0/Super/40.8/750.0
+Mercearia/Frutaria/Almacave/Lisboa/43.15957625/-6.598456565002/780.5/80/1500.0
